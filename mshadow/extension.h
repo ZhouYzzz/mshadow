@@ -19,6 +19,7 @@
 #include "./extension/channel_pool.h"
 #include "./extension/channel_unpool.h"
 #include "./extension/pad.h"
+#include "./extension/pad_os.h"
 #include "./extension/crop.h"
 #include "./extension/mirror.h"
 #include "./extension/concat.h"
